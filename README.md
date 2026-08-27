@@ -1,13 +1,7 @@
 # 🕹️ PRESS START TO CONTINUE...
 
 ## 🐍 Daily Quest: Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeIlynnn/SeIlynnn/output/dist/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeIlynnn/SeIlynnn/output/dist/snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SeIlynnn/SeIlynnn/output/dist/snake.svg">
-  </picture>
-</div>
+![snake](https://raw.githubusercontent.com/SeIlynnn/SeIlynnn/output/snake-purple.svg)
 
 Welcome to my digital inventory! I am a passionate creator bridging the gap between imaginative game worlds and robust cloud infrastructure. 
 
